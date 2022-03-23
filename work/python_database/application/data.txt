@@ -1,0 +1,23 @@
+managers
+name: John 
+surname: Smith 
+username: john_s
+password: Pass#1234
+email: john_smith@email.com
+salary: 100000
+reporters:
+
+guests
+name: davit
+surname: grigoryan 
+username: dave69tv
+password: dave69tv
+email: dave69tv@gmail.com
+
+employees
+name: Vasil
+surname: akelydsfbjnkkjan 
+username: vsesdf1995
+password: Passdfs#95446
+email: vse_smdsfith@emankjkil.com
+salary: 4999sfd99

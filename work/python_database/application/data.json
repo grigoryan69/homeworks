@@ -1,0 +1,37 @@
+{
+    "People": {
+        "managers": [
+            {
+                "name": "John",
+                "surname": "Smith",
+                "username": "john_s",
+                "password": "Pass#1234",
+                "email": "john_smith@email.com",
+                "salary": "100000",
+                "Reporters": {
+                    "employee-1": "vsesdf1995"
+                }
+            }
+        ],
+        "employees": [
+            {
+                "name": "Vasil",
+                "surname": "akelydsfbjnkkjan",
+                "username": "vsesdf1995",
+                "password": "Passdfs#95446",
+                "email": "vse_smdsfith@emankjkil.com",
+                "salary": "4999sfd99",
+                "manager": "john_s"
+            }
+        ],
+        "guests": [
+            {
+                "name": "davit",
+                "surname": "grigoryan",
+                "username": "dave69",
+                "password": "dave69",
+                "email": "dave69tv@gmail.com"
+            }
+        ]
+    }
+}

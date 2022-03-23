@@ -1,0 +1,54 @@
+Unit tests for database
+
+
+
+test for contains_number
+    positive tests
+        when only numbers return True
+        when numbers and letters return True
+        when symbols and numbers return True
+    negative tests
+        when only letters return False
+        when only symbols return False
+        when letters and symbols return False
+        when enter was presed without anything return False
+        when backspace return False
+
+
+
+
+test for correct_name
+    positive tests
+        when length more then 1 and 1 letter is in uppercase and after that in lowercase return self
+        when length is 1 and 1 letter is in uppercase return self
+    negative tests
+        if numbers return False
+        if symbols return False
+        when enter was presed without anything return False
+        when backspace return False
+        
+
+
+test for correct_email
+    positive tests
+        if the end of input is @gmail.com must return self
+        if the end of input is @mail.ru must return self
+        if the end of input is @yandex.ru must return self
+    negative tests
+        when only letters return False
+        when only numbers return False
+        when only symbols return False
+        when letters and numbers return False
+        when letters and symbols return False
+        when symbols and numbers return False
+        when enter was presed without anything return False
+        when backspace return False
+        when after lettes @ and not gmail.com, or mail.ru, or yandex.ru return False
+        after @ {
+            when only letters return False
+            when only numbers return False
+            when only symbols return False
+            when letters and numbers return False
+            when letters and symbols return False
+            when symbols and numbers return False
+        }

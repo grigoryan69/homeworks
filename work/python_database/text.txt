@@ -1,0 +1,1 @@
+coverage lines information, go up %, black box for allproject

@@ -1,0 +1,1 @@
+Input the radius of the circle : The area of the GoCircle with radius 10.0 is: 314.1592653589793

@@ -1,0 +1,14 @@
+login/Registration: 
+Enter your username: Enter your password: 
+managers Success!
+
+Choose some option 
+    [get_username[1]]
+    [get_password[2]]
+    [set_username[3]]
+    [set_password[4]]
+[get_guests[5]]
+    [change_guest_username[6]]
+    [change_guest_password[7]]
+
+just type 1 2 3 4 5 6 7: 

@@ -1,0 +1,1 @@
+Enter length of 1 Figure: Enter length of 2 Figure: Area of the triangle: 50.0
